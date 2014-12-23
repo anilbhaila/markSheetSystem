@@ -1,0 +1,11 @@
+{
+    "require": {
+        "cboden/Ratchet": "0.2.*",
+        "monolog/monolog": "1.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "gameLiveScores": "src"
+        }
+    }
+}
